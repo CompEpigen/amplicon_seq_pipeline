@@ -1,0 +1,15 @@
+---
+## General pipeline parameters:
+
+# Name of the pipeline:
+#pipeline: "Amplicon Sequencing Pipeline"
+# ABSOLUTE path to directory holding the working directory:
+workdir_top: "/C010-datasets/Internal/amplicon_seq_pipeline/test_maxi/"
+# Repository URL:
+#repo: ""
+
+## Pipeline-specific parameters:
+threads: 4
+#Reference genome for alignment with bismark
+BWA_reference: "/home/epicwl/ngs_share/bcbio/genomes/Hsapiens/hg19/bwa/hg19.fa."
+
