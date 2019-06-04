@@ -1,5 +1,5 @@
 # amplicon_seq_pipeline
-Pipeline to process amplicon bisulfite sequencing results.
+Pipeline to process amplicon sequencing results.
 
 Getting Started
 ===============
