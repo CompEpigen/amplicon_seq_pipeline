@@ -11,5 +11,5 @@ workdir_top: "/C010-datasets/Internal/amplicon_seq_pipeline/test_maxi/"
 ## Pipeline-specific parameters:
 threads: 4
 #Reference genome for alignment with bismark
-BWA_reference: "/home/epicwl/ngs_share/bcbio/genomes/Hsapiens/hg19/bwa/hg19.fa."
+BWA_reference: "/home/epicwl/ngs_share/bcbio/genomes/Hsapiens/hg19/bwa/hg19.fa"
 
